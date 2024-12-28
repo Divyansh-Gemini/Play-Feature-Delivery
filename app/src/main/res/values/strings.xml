@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play Feature Delivery</string>
+    <string name="title_greet">Greeting Module</string>
+    <string name="install_and_greet"><![CDATA[Install & Greet]]></string>
+</resources>
